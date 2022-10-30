@@ -1,4 +1,4 @@
-package com.example.DiningReviewApi.diningreviewapi.model;
+package com.example.DiningReviewApi.diningreviewapi.user;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

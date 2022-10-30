@@ -1,7 +1,5 @@
-package com.example.DiningReviewApi.diningreviewapi.controller;
+package com.example.DiningReviewApi.diningreviewapi.user;
 
-import com.example.DiningReviewApi.diningreviewapi.model.User;
-import com.example.DiningReviewApi.diningreviewapi.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

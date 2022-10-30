@@ -1,6 +1,5 @@
-package com.example.DiningReviewApi.diningreviewapi.repositories;
+package com.example.DiningReviewApi.diningreviewapi.user;
 
-import com.example.DiningReviewApi.diningreviewapi.model.User;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

@@ -1,7 +1,5 @@
-package com.example.DiningReviewApi.diningreviewapi.service;
+package com.example.DiningReviewApi.diningreviewapi.user;
 
-import com.example.DiningReviewApi.diningreviewapi.model.User;
-import com.example.DiningReviewApi.diningreviewapi.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
